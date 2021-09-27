@@ -1,0 +1,33 @@
+/**
+* Transition-timing-function property@mixin
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors
+ */
+/***********************************************************************/
+/** CHECKOUT BY STEP */
+#footer .title_block {
+  background-color: transparent;
+  color: #fff;
+}
+
+#social_block .title_block, #social_block .des-follow {
+  display: block;
+}
+
+@media (max-width: 991px) {
+  .contact-store {
+    padding-left: 50px;
+  }
+  .rtl .contact-store {
+    padding-right: 50px;
+    padding-left: inherit;
+  }
+}

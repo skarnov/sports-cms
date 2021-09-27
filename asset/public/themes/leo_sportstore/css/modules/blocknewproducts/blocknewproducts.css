@@ -1,0 +1,32 @@
+/**
+* Transition-timing-function property@mixin
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors
+ */
+/***********************************************************************/
+/** CHECKOUT BY STEP */
+.products li {
+  border-bottom: 1px solid #f2f2f2;
+  margin-top: 0;
+}
+.products li:last-child {
+  border-bottom: none;
+}
+
+.lnk .btn-floating {
+  position: absolute;
+  bottom: -20px;
+  right: 24px;
+}
+.rtl .lnk .btn-floating {
+  left: 24px;
+  right: auto;
+}

@@ -1,0 +1,123 @@
+/**
+* Transition-timing-function property@mixin
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors
+ */
+/***********************************************************************/
+/** CHECKOUT BY STEP */
+#topbar {
+  background-color: transparent;
+  padding: 0;
+}
+#topbar .block-container-top {
+  padding: 24px;
+}
+#topbar .block-container-top:before {
+  content: "";
+  position: absolute;
+  background-color: white;
+  display: inline-block;
+  width: -webkit-calc(100% - 18px);
+  width: calc(100% - 18px);
+  top: 0;
+  left: 9px;
+  height: 100%;
+}
+
+#header_logo {
+  width: 100%;
+  text-align: center;
+}
+
+#leo_block_top {
+  position: absolute;
+  top: 23px;
+  right: 10px;
+}
+.rtl #leo_block_top {
+  left: 10px;
+  right: auto;
+}
+
+.blockcart_top {
+  position: absolute;
+  top: 22px;
+  right: 60px;
+}
+.rtl .blockcart_top {
+  left: 60px;
+  right: auto;
+}
+
+#cart .title-cart:before {
+  color: #fff;
+}
+#cart .ajax_cart_no_product, #cart .ajax_cart_quantity {
+  color: #fff;
+  background-color: #b1d87a;
+}
+#cart .ajax_cart_no_product:before, #cart .ajax_cart_quantity:before {
+  color: #b1d87a;
+}
+
+#open-tool {
+  color: #fff;
+}
+#open-tool.add-open {
+  color: #8f8f8f;
+}
+
+.open-block.open-group {
+  top: -23px;
+}
+
+#leo-verticalmenu {
+  height: 70px;
+  background-color: #2d3e50;
+}
+
+#header-main .block-cate {
+  position: absolute;
+  z-index: 100;
+  width: 279px;
+  height: 100%;
+}
+
+#leo-megamenu {
+  padding-left: 0;
+}
+.rtl #leo-megamenu {
+  padding-right: 0;
+  padding-left: inherit;
+}
+#leo-megamenu .leo-megamenu {
+  padding-left: 279px;
+}
+.rtl #leo-megamenu .leo-megamenu {
+  padding-right: 279px;
+  padding-left: inherit;
+}
+
+#leo-megamenu .navbar-nav > li > a {
+  font-weight: 400;
+}
+
+#search_block_top > .fa-search {
+  color: #888888;
+  margin-top: 0;
+}
+
+.block-user-info {
+  float: left;
+}
+.rtl .block-user-info {
+  float: right;
+}

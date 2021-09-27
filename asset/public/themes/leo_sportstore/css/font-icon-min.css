@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url("http://demo4leotheme.com/prestashop/leo_sportstore_demo/themes/leo_sportstore/fonts/icomoon.eot?r681mp");
+  src: url("http://demo4leotheme.com/prestashop/leo_sportstore_demo/themes/leo_sportstore/fonts/icomoon.eot?#iefixr681mp") format("embedded-opentype"), url("http://demo4leotheme.com/prestashop/leo_sportstore_demo/themes/leo_sportstore/fonts/icomoon.woff?r681mp") format("woff"), url("http://demo4leotheme.com/prestashop/leo_sportstore_demo/themes/leo_sportstore/fonts/icomoon.ttf?r681mp") format("truetype"), url("http://demo4leotheme.com/prestashop/leo_sportstore_demo/themes/leo_sportstore/fonts/icomoon.svg?r681mp#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-svg1:before {
+  content: "\e600";
+}
+
+.icon-svg2:before {
+  content: "\e601";
+}
+
+.icon-svg3:before {
+  content: "\e602";
+}
+
+.icon-svg4:before {
+  content: "\e603";
+}
+
+.icon-svg5:before {
+  content: "\e604";
+}
+
+.icon-svg6:before {
+  content: "\e605";
+}
+
+.icon-svg7:before {
+  content: "\e606";
+}
+
+.icon-svg8:before {
+  content: "\e607";
+}
+
+.icon-svg9:before {
+  content: "\e608";
+}
+
+.icon-svg10:before {
+  content: "\e609";
+}
+
+.icon-svg11:before {
+  content: "\e60a";
+}
+
+.icon-svg12:before {
+  content: "\e60b";
+}
+
+.icon-svg13:before {
+  content: "\e60c";
+}
+
+.icon-svg14:before {
+  content: "\e60d";
+}
+
+.icon-svg15:before {
+  content: "\e60e";
+}
+
+.icon-svg16:before {
+  content: "\e60f";
+}
+
+.icon-svg17:before {
+  content: "\e610";
+}
+
+.icon-svg18:before {
+  content: "\e611";
+}
+
+.icon-svg19:before {
+  content: "\e612";
+}
+
+.icon-svg20:before {
+  content: "\e613";
+}
+
+.icon-svg21:before {
+  content: "\e614";
+}

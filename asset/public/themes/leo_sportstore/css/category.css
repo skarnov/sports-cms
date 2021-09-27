@@ -1,0 +1,32 @@
+/**
+* Transition-timing-function property@mixin
+*/
+/*background RGBA
+============================================*/
+/****/
+/* RIGHT TO LEFT */
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors
+ */
+/***********************************************************************/
+/** CHECKOUT BY STEP */
+.block-category {
+  margin-top: 20px;
+}
+.block-category .image {
+  position: relative;
+}
+.block-category .page-heading {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  z-index: 1;
+  top: 50%;
+  font-size: 72px;
+  font-weight: 100;
+  margin: -40px 0 0;
+}
